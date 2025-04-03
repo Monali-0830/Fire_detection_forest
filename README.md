@@ -71,4 +71,3 @@ Deploy the trained model for real-time fire detection.
 👤 Author
 
 Monali
-
